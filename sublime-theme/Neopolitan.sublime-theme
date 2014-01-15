@@ -377,7 +377,7 @@
   // Sidebar tree
   {
     "class": "sidebar_tree",
-    "row_padding": [8,5],
+    "row_padding": [8,4],
     "indent": 12,
     "indent_offset": 8,
     "indent_top_level": false,
@@ -801,7 +801,7 @@
   {
     "class": "icon_context",
     "parents": [{"class": "icon_button_control","attributes": ["selected"]}],
-    "layer0.tint": [242, 240, 236]
+    "layer0.tint": [97, 206, 60]
   },
   // Use search buffer
   {
@@ -821,7 +821,7 @@
   {
     "class": "icon_reverse",
     "layer0.texture": "User/themes/Neopolitan/reverse.png",
-    "layer0.tint": [81, 81, 81],
+    "layer0.tint": [128, 128, 128],
     "layer0.opacity": 1,
     "content_margin": 8
   },
