@@ -6,6 +6,7 @@
   // Dark Grey [128, 128, 128]
   // Orange [255, 100, 0]
   // Green [97, 206, 60]
+  // Blue selection [37, 59, 118]
   // Tab set
   {
     "class": "tabset_control",
@@ -632,7 +633,7 @@
     "class": "quick_panel_row",
     "attributes": ["selected"],
     "layer0.texture": "",
-    "layer0.tint": [255, 100, 0]
+    "layer0.tint": [37, 59, 118]
   },
   {
     "class": "quick_panel_label",
@@ -664,7 +665,7 @@
     "class": "mini_quick_panel_row",
     "attributes": ["selected"],
     "layer0.texture": "",
-    "layer0.tint": [255, 100, 0]
+    "layer0.tint": [37, 59, 118]
   },
   // CODE COMPLETION DROPDOWN
   {
@@ -687,7 +688,7 @@
   {
     "class": "table_row",
     "layer0.texture": "",
-    "layer0.tint": [255, 100, 0],
+    "layer0.tint": [37, 59, 118],
     "layer0.opacity": 0,
     "layer0.inner_margin": [3,1]
   },
