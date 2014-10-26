@@ -1,0 +1,88 @@
+# blue 8da6ce
+# brown 271f19
+# yellow fbde2d
+# orange ff6400
+# lime d8fa3c
+# green 61ce3c
+
+editor
+foreground: f8f8f8
+background: 271f19
+caret: ffffff
+
+editor-selection
+foreground: ffffff
+background: 253b76
+
+H1
+foreground: 8da6ce
+font-style: bold
+font-size: 24px
+
+H2
+foreground: 8da6ce
+font-style: bold
+font-size: 20px
+
+H3
+foreground: 8da6ce
+font-size: 17px
+
+H4
+foreground: 8da6ce
+font-size: 15px
+
+H5
+foreground: 8da6ce
+font-size: 13px
+
+H6
+foreground: 8da6ce
+font-size: 11px
+
+EMPH
+foreground: ffffff
+font-style: italic
+
+STRONG
+foreground: ffffff
+font-style: bold
+
+HRULE
+foreground: f8f8f8
+
+LIST_BULLET
+foreground: 8da6ce
+
+LIST_ENUMERATOR
+foreground: 8da6ce
+
+LINK
+foreground: 61ce3c
+
+AUTO_LINK_URL
+foreground: 61ce3c
+
+AUTO_LINK_EMAIL
+foreground: 61ce3c
+
+REFERENCE
+foreground: 66cccc
+
+IMAGE
+foreground: fbde2d
+
+CODE
+foreground: ff6400
+
+VERBATIM
+foreground: 999999
+
+HTML_ENTITY
+foreground: d8fa3c
+
+COMMENT
+foreground: ff0080
+
+BLOCKQUOTE
+foreground: 8da6ce
